@@ -1,97 +1,195 @@
-# 👋 Hi, I'm Bharath Halemane
+<h1 align="center">Hey there! 👋 I'm Bharath Halemane H V</h1>
 
-💻 Full Stack Enthusiast
-🚀 Building real-world projects with MERN + AI integrations  
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Java | JavaScript Enthusiast</h3>
 
----
-
-## 🧠 About Me
-
-- 🔧 Full Stack Developer for real-time apps (Socket.IO, APIs, MERN)
-- 🌐 Building full-stack apps using MERN stack
-- 🤖 Exploring AI-powered products (Resume Matcher, Mood Music Recommender)
-- 🏗️ Currently working on:
-  - Skill Swap Platform (real-time collaboration app)
-  - One Day Worker Service App
-- 📚 Always learning & improving system design + scalability
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Lover+%E2%9D%A4%EF%B8%8F;Java+%2B+JavaScript+Wizard+%F0%9F%A7%99;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About Me
 
-### 💻 Languages
-- JavaScript (Node.js)
-- Java
-  
-### 🌐 Frontend
-- React.js
-- HTML, CSS (Plain CSS)
-
-### 🔙 Backend
-- Node.js
-- Express.js
-- REST APIs
-- Socket.IO (Real-time communication)
-
-### 🗄️ Database
-- MongoDB
-
-### ☁️ Tools & Platforms
-- Git & GitHub
-- Vercel (Frontend Hosting)
-- Render (Backend Hosting)
-- AWS (Basics)
+```javascript
+const bharath = {
+  name: "Bharath Halemane H V",
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express.js", "React", "Node.js", "Java", "JavaScript"],
+  location: "India 🇮🇳",
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+  currentlyLearning: "System Design & Cloud ☁️",
+  motto: "Code. Break. Fix. Repeat. 🔁"
+};
+```
 
 ---
 
-## 🚀 Projects
+### 🛠️ Tech Stack & Tools
 
-### 🔹 Skill Swap Platform
-- Real-time skill exchange platform
-- Features:
-  - Authentication (JWT + Google OAuth)
-  - Real-time chat using Socket.IO
-  - Request/accept system
-  - Upcoming: study groups, dashboards, ratings
-- 🛠️ Tech: MERN Stack + Socket.IO
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,javascript,html,css,git,github,vscode,postman" />
+</p>
 
 ---
 
-### 🔹 Hotel Management System
-- Full-stack web application for hotel operations
-- Features:
-  - Room booking
-  - Admin dashboard
-  - Database integration
-- 🛠️ Tech: React + Node.js + MongoDB
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharathhalemane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathhalemane&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathhalemane&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### 🔹 AI Resume Matcher (Upcoming)
-- Upload resume + job description
-- Get match %, missing skills & suggestions
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bharathhalemane&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🌟 Featured Projects
 
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathhalemane&show_icons=true&theme=radical)
+| 🚀 Project | 🛠️ Tech | 📝 Description |
+|---|---|---|
+| Coming Soon... | MERN | Awesome stuff in the works! |
+| Coming Soon... | Java | Backend magic brewing! |
 
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bharathhalemane&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/bharath-halemane-841010287/
-- 📧 Email: bharath.halemane.00@gmail.com
+> 💡 *Add your real projects here — just replace the rows!*
 
 ---
 
-## ⚡ Fun Fact
+### 📈 Contribution Graph
 
-I don’t just write code — I build systems that solve real problems 🚀
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathhalemane&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/bharathhalemane">
+    <img src="https://img.shields.io/badge/GitHub-bharathhalemane-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="<h1 align="center">Hey there! 👋 I'm Bharath Halemane H V</h1>
+
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Java | JavaScript Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Lover+%E2%9D%A4%EF%B8%8F;Java+%2B+JavaScript+Wizard+%F0%9F%A7%99;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+```javascript
+const bharath = {
+  name: "Bharath Halemane H V",
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express.js", "React", "Node.js", "Java", "JavaScript"],
+  location: "India 🇮🇳",
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+  currentlyLearning: "System Design & Cloud ☁️",
+  motto: "Code. Break. Fix. Repeat. 🔁"
+};
+```
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,javascript,html,css,git,github,vscode,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharathhalemane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathhalemane&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathhalemane&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bharathhalemane&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| 🚀 Project | 🛠️ Tech | 📝 Description |
+|---|---|---|
+| Coming Soon... | MERN | Skill Swap |
+
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathhalemane&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/bharathhalemane">
+    <img src="https://img.shields.io/badge/GitHub-bharathhalemane-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/bharath-halemane-841010287">
+    <img src="https://img.shields.io/badge/LinkedIn-Bharath_Halemane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:bharath.halemane.00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharathhalemane&label=Profile+Views&color=F7B731&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>✨ "First, solve the problem. Then, write the code." — John Johnson</i>
+</p>">
+    <img src="https://img.shields.io/badge/LinkedIn-Bharath_Halemane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:bharathhalemane@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharathhalemane&label=Profile+Views&color=F7B731&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>✨ "First, solve the problem. Then, write the code." — John Johnson</i>
+</p>

@@ -57,7 +57,7 @@ const bharath = {
 
 | 🚀 Project | 🛠️ Tech | 📝 Description |
 |---|---|---|
-| Coming Soon... | MERN | Skill Swap |
+| Coming Soon... | Spring | Smart Dine |
 
 ---
 

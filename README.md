@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Bharath Halemane H V</h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Java | JavaScript Enthusiast</h3>
+<h3 align="center">🚀 Software Developer Developer | MERN Stack | Java | JavaScript Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Lover+%E2%9D%A4%EF%B8%8F;Java+%2B+JavaScript+Wizard+%F0%9F%A7%99;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
